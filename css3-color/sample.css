@@ -1,0 +1,11 @@
+#basic_color {
+	color: lime;
+}
+
+#numerical_color{
+/*	color: #f00; */ /* RGB */
+	color: #ff0000; /* RRGGBB */
+}
+#rgb {
+	color: rgb(0,255,0);
+}
